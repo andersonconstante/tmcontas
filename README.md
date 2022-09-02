@@ -14,7 +14,7 @@ Criar um projeto de cadastro de contas e Transações, utilizando a MVC (pela fa
 - Criar uma funcionalidade de transação entre duas contas, com os campos contaOrigem, contaDestino, valorTransferencia, taxa, dataGendamento, dataTransferencia, tipo e com a finalidade de agendar e aplicando taxas de acordo com o período, tipo de trançação ou valor,
 - Criar uma funcionalidade de listar as transações com a o nome do cliente da contaOrigem sendo  exibido em cada transação que ele realizou,
 - Criar a rota linkando uma página a outra (Adicionar Pessoa e Listar Pessoa);
-- disponivilizar a API para ser consumida em Angular:
+- disponibilizar a API para ser consumida em Angular:
 	- API de Listagem
 	- API de Cadastro
 
