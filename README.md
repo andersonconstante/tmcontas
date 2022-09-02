@@ -43,4 +43,4 @@ Criar um projeto de cadastro de contas e Transações, utilizando a MVC (pela fa
 
 
 ## Dúvidas
-Caso há alguma dúvida em relação a este repositório, envie para andersonwconsul@gmail.com
+Caso haja alguma dúvida em relação a este repositório, envie para andersonwconsul@gmail.com
