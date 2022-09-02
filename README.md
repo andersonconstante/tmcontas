@@ -30,7 +30,7 @@ Criar um projeto de cadastro de contas e Transações, utilizando a MVC (pela fa
 ## Como instalar
 
 - Baixe ou clone este repositório usando `git clone https://github.com/andersonconstante/tmcontas.git`;
-- Caso não tenha JDk, será necessário instalar do site da [Oracle]https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html
+- Caso não tenha JDk, será necessário instalar do site da [Oracle] https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html
 
 ## Como executar
 
